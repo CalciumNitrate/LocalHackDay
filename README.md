@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bronx Science Senior, with a heavy interest in Programming and its applications to Machine Learning + it's use in building applications
+Incoming Stanford Freshman, with a heavy interest in Programming, Machine Learning, Physics and Mathematics.
 
 
 # 💻 Tech Stack:
