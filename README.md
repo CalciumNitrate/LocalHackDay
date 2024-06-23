@@ -1,5 +1,5 @@
 # 💫 About Me:
-Incoming Stanford Freshman, with a heavy interest in Programming, Machine Learning, Physics and Mathematics.
+Incoming Freshman at Stanford University, with a heavy interest in Programming, Machine Learning, Physics and Mathematics.
 
 
 # 💻 Tech Stack:
